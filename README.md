@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64e478b1b128dce3cb61e217?variant=light)](https://roadmap.sh)
+
 <!--
 **Marc-Vialatte/Marc-Vialatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
