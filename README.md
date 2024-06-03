@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![roadmap.sh](https://roadmap.sh/card/tall/64e478b1b128dce3cb61e217?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/64e478b1b128dce3cb61e217?variant=dark)](https://roadmap.sh)
+
 <!--
 **Marc-Vialatte/Marc-Vialatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
